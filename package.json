@@ -1,0 +1,8 @@
+{
+    "name": "@types/decimal.js",
+    "version": "7.2.0",
+    "main": "",
+    "repository": "git@github.com:t3t5u/decimal.js-types.git",
+    "author": "t3t5u <t3t5u.5an0@gmail.com>",
+    "license": "MIT"
+}
